@@ -8,7 +8,10 @@ export const addOneContact = async () => {
     const contacts = JSON.parse(data);
     const contact = createFakeContact();
     contacts.push(contact);
-    await fs.writeFile(PATH_DB, JSON.stringify(contacts));
+    await fs.writeFile(
+      PATH_DB,
+      JSON.stringify(contacts, undefined, contacts.length),
+    );
   } catch (err) {
     console.error(err);
   }

@@ -1,1 +1,37 @@
-[]
+[
+     {
+          "id": "e6286cf8-fa3d-4d5c-b886-c74c9a55e3c5",
+          "name": "Neal Corkery",
+          "phone": "(365) 627-5155 x181",
+          "email": "Camille_Schmitt@hotmail.com",
+          "job": "Customer Factors Planner"
+     },
+     {
+          "id": "ea3e3ea2-8c50-4a57-9ccb-65cc6c7e33a0",
+          "name": "Donnie Langosh",
+          "phone": "1-401-214-4548 x059",
+          "email": "Frederick_Davis@yahoo.com",
+          "job": "District Security Executive"
+     },
+     {
+          "id": "cdeba4cd-7110-43a0-9af7-eddebdaa70cd",
+          "name": "Tony Wisozk",
+          "phone": "1-310-604-5534 x819",
+          "email": "Dariana.Reynolds25@yahoo.com",
+          "job": "Product Web Technician"
+     },
+     {
+          "id": "5a7b60fe-261e-41ee-9691-02019d6f23ab",
+          "name": "Renee Bradtke",
+          "phone": "1-822-600-1312 x51578",
+          "email": "Abigail_Harvey94@hotmail.com",
+          "job": "Internal Directives Architect"
+     },
+     {
+          "id": "38c11415-7700-4f46-8ead-0cf20fabf320",
+          "name": "Mr. Marcus Paucek",
+          "phone": "511.532.3571 x0909",
+          "email": "Hubert_Balistreri20@hotmail.com",
+          "job": "Direct Implementation Executive"
+     }
+]
